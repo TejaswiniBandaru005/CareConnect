@@ -10,26 +10,36 @@ export default function Cardiology() {
 
   return (
     <>
-      <header style={{ background: 'linear-gradient(135deg, #ff6347, #ff8c00)' }}>
-        <h1 className="text-white text-4xl font-semibold">Meet Dr. Ramadevi</h1>
-        <p className="text-white text-xl">Your Trusted Cardiologist</p>
+      <header className="bg-gradient-to-r from-red-500 to-orange-400 text-white text-center py-12">
+        <h1 className="text-4xl font-semibold">Meet Dr. Ramadevi</h1>
+        <p className="text-xl mt-2">Your Trusted Cardiologist</p>
       </header>
 
-      <div className="container mx-auto p-6">
-        <div className="doctor-info mb-8">
-          <img src="images/ramadevi.jpg" alt="Cardiology Doctor" className="doctor-image w-full md:w-1/2 rounded-lg shadow-lg mx-auto" />
-          <h2 className="text-2xl font-semibold mt-4">Dr. Ramadevi</h2>
-          <p className="mt-2">
-            Dr. Ramadevi is a board-certified cardiologist with over 15 years of experience in treating various heart conditions. She is passionate about providing personalized care and working with patients to improve their heart health.
-          </p>
-          <p className="specialization text-lg mt-2">
-            <strong>Specialization:</strong> Cardiology, Heart Disease Treatment, Preventive Care
-          </p>
-          <p className="mt-4">
-            Dr. Ramadevi believes in a holistic approach to treating heart diseases and has helped numerous patients lead healthier, happier lives. She is committed to using the latest medical technologies and staying up-to-date with the most current advancements in cardiovascular care.
-          </p>
+      <div className="container mx-auto px-6 py-12">
+        <div className="doctor-info mb-8 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+          {/* Doctor Image */}
+          <img 
+            src="images/ramadevi.jpg" 
+            alt="Cardiology Doctor" 
+            className="w-3/4 md:w-1/2 rounded-lg shadow-lg mx-auto" 
+          />
+          
+          {/* Doctor Information */}
+          <div>
+            <h2 className="text-2xl font-semibold mt-4">Dr. Ramadevi</h2>
+            <p className="mt-2">
+              Dr. Ramadevi is a board-certified cardiologist with over 15 years of experience in treating various heart conditions. She is passionate about providing personalized care and working with patients to improve their heart health.
+            </p>
+            <p className="specialization text-lg mt-2">
+              <strong>Specialization:</strong> Cardiology, Heart Disease Treatment, Preventive Care
+            </p>
+            <p className="mt-4">
+              Dr. Ramadevi believes in a holistic approach to treating heart diseases and has helped numerous patients lead healthier, happier lives. She is committed to using the latest medical technologies and staying up-to-date with the most current advancements in cardiovascular care.
+            </p>
+          </div>
         </div>
 
+        {/* Contact Form */}
         <div className="contact-form bg-gray-100 p-6 rounded-lg shadow-md">
           <h3 className="text-2xl font-semibold mb-4">Contact Dr. Ramadevi for an Appointment</h3>
           <form id="contactForm" onSubmit={handleSubmit}>
@@ -38,32 +48,32 @@ export default function Cardiology() {
               id="name" 
               placeholder="Your Name" 
               required 
-              className="w-full p-2 mb-4 border rounded" 
+              className="w-full p-3 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
             <input 
               type="email" 
               id="email" 
               placeholder="Your Email" 
               required 
-              className="w-full p-2 mb-4 border rounded" 
+              className="w-full p-3 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
             <textarea 
               id="message" 
               rows="4" 
               placeholder="Your Message" 
               required 
-              className="w-full p-2 mb-4 border rounded"
+              className="w-full p-3 mb-4 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             ></textarea>
             <button 
               type="submit" 
-              className="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700"
+              className="w-full bg-blue-600 text-white p-3 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
               Send Message
             </button>
           </form>
 
           {confirmationMessage && (
-            <div style={{ marginTop: '15px', color: 'green' }}>
+            <div className="mt-4 text-green-500">
               {confirmationMessage}
             </div>
           )}

@@ -17,9 +17,12 @@ export default function Specialized() {
             { name: 'Dr. Seema Rajan', specialization: 'Cardiologist', fee: '$150', img: 'images/doctors/Cardiologist/seemarajan.jpeg' },
           ].map((doctor, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-              <Link to="/specializedform">
+              <Link
+                to={`/specializedform?doctorName=${encodeURIComponent(doctor.name)}&specialization=${doctor.specialization}&fee=${doctor.fee}`}
+              >
                 <img src={doctor.img} alt={doctor.name} className="w-full h-56 object-cover" />
               </Link>
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold">{doctor.name}</h3>
                 <p><strong>Specialization:</strong> {doctor.specialization}</p>
@@ -39,9 +42,12 @@ export default function Specialized() {
             { name: 'Dr. Subha Katta', specialization: 'Neurologist', fee: '$90', img: 'images/doctors/Neurologist/subhkatta.jpeg' },
           ].map((doctor, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-              <Link to="/specializedform">
+              <Link
+                to={`/specializedform?doctorName=${encodeURIComponent(doctor.name)}&specialization=${doctor.specialization}&fee=${doctor.fee}`}
+              >
                 <img src={doctor.img} alt={doctor.name} className="w-full h-56 object-cover" />
               </Link>
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold">{doctor.name}</h3>
                 <p><strong>Specialization:</strong> {doctor.specialization}</p>
@@ -61,9 +67,12 @@ export default function Specialized() {
             { name: 'Dr. Sarang Deshpande', specialization: 'Orthopedic', fee: '$120', img: 'images/doctors/Orthopedic/sarangdeshpande.png' },
           ].map((doctor, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-              <Link to="/specializedform">
+              <Link
+                to={`/specializedform?doctorName=${encodeURIComponent(doctor.name)}&specialization=${doctor.specialization}&fee=${doctor.fee}`}
+              >
                 <img src={doctor.img} alt={doctor.name} className="w-full h-56 object-cover" />
               </Link>
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold">{doctor.name}</h3>
                 <p><strong>Specialization:</strong> {doctor.specialization}</p>
@@ -83,9 +92,12 @@ export default function Specialized() {
             { name: 'Dr. Krysta Sellers', specialization: 'Dentist', fee: '$100', img: 'images/doctors/Dentist/krystasellers.jpg' },
           ].map((doctor, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-              <Link to="/specializedform">
+              <Link
+                to={`/specializedform?doctorName=${encodeURIComponent(doctor.name)}&specialization=${doctor.specialization}&fee=${doctor.fee}`}
+              >
                 <img src={doctor.img} alt={doctor.name} className="w-full h-56 object-cover" />
               </Link>
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold">{doctor.name}</h3>
                 <p><strong>Specialization:</strong> {doctor.specialization}</p>
@@ -105,9 +117,12 @@ export default function Specialized() {
             { name: 'Dr. Sunitha Kumari', specialization: 'Dermatologist', fee: '$130', img: 'images/doctors/Dermatologist/sunithakumari.jpeg' },
           ].map((doctor, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-              <Link to="/specializedform">
+              <Link
+                to={`/specializedform?doctorName=${encodeURIComponent(doctor.name)}&specialization=${doctor.specialization}&fee=${doctor.fee}`}
+              >
                 <img src={doctor.img} alt={doctor.name} className="w-full h-56 object-cover" />
               </Link>
+
               <div className="p-4">
                 <h3 className="text-xl font-semibold">{doctor.name}</h3>
                 <p><strong>Specialization:</strong> {doctor.specialization}</p>

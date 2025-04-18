@@ -59,7 +59,7 @@
     },
     {
         "name": "Pneumonia",
-        "image": "images/health/im.jpeg",
+        "image": "images/health/img1.jpeg",
         "symptoms": [
             "Cough with phlegm",
             "Shortness of breath",
@@ -87,7 +87,7 @@
     },
     {
         "name": "Diabetic",
-        "image": "images/health/diabetes.jpeg",
+        "image": "images/health/3.jpeg",
         "symptoms": [
             "Frequent urination",
             "Increased thirst",
@@ -115,7 +115,7 @@
     },
     {
         "name": "Heart Disease",
-        "image": "images/health/heart_disease.jpeg",
+        "image": "images/health/img4.jpeg",
         "symptoms": [
             "Chest pain or discomfort",
             "Shortness of breath",
@@ -143,7 +143,7 @@
     },
     {
         "name": "Kidney Disease",
-        "image": "images/health/kidney_disease.jpeg",
+        "image": "images/health/img5.jpeg",
         "symptoms": [
             "Swelling in ankles, feet, or face",
             "Fatigue",
@@ -171,7 +171,7 @@
     },
     {
         "name": "Liver Disease",
-        "image": "images/health/liver_disease.jpeg",
+        "image": "images/health/img6.jpeg",
         "symptoms": [
             "Fatigue",
             "Yellowing of the skin or eyes (jaundice)",
@@ -199,7 +199,7 @@
     },
     {
         "name": "HIV/AIDS",
-        "image": "images/health/hiv_aids.jpeg",
+        "image": "images/health/img10.jpeg",
         "symptoms": [
             "Unexplained weight loss",
             "Frequent infections",
@@ -227,7 +227,7 @@
     },
     {
         "name": "Chronic Respiratory Disease",
-        "image": "images/health/chronic_respiratory.jpeg",
+        "image": "images/health/img11.jpeg",
         "symptoms": [
             "Chronic cough",
             "Shortness of breath",
@@ -283,7 +283,7 @@
     },
     {
         "name": "Hypertension",
-        "image": "images/health/img4.jpeg",
+        "image": "images/health/4.jpeg",
         "symptoms": [
             "Headaches",
             "Shortness of breath",
@@ -311,7 +311,7 @@
     },
     {
         "name": "Obesity",
-        "image": "images/health/img5.jpeg",
+        "image": "images/health/5.jpeg",
         "symptoms": [
             "Excess body fat",
             "Breathlessness",
@@ -339,7 +339,7 @@
     },
     {
         "name": "Osteoporosis",
-        "image": "images/health/img6.jpeg",
+        "image": "images/health/img12.jpeg",
         "symptoms": [
             "Back pain",
             "Loss of height",
@@ -423,7 +423,7 @@
     },
     {
         "name": "COVID-19",
-        "image": "images/health/img10.jpeg",
+        "image": "images/health/1.jpeg",
         "symptoms": [
             "Fever",
             "Cough",

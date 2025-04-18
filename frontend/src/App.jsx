@@ -15,6 +15,7 @@ import Specialized from './pages/Specialized';
 import Shop from './pages/Shop';
 import ReservedSlots from './pages/ReservedSlots';
 import About from './pages/About';
+import Contact from './pages/Contact';
 import Feedback from './pages/Feedback';
 import Login from './pages/Login';
 import Neurology from './pages/Neurology';
@@ -36,6 +37,7 @@ function App() {
           <Route path="/shop" element={<Shop />} />
           <Route path="/reserved-slots" element={<ReservedSlots />} />
           <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
           <Route path="/feedback" element={<Feedback />} />
           <Route path="/register" element={<Register />} />
           <Route path="/regular" element={<Regular />} />
