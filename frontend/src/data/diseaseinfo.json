@@ -1,0 +1,564 @@
+[
+    {
+        "name": "Asthma",
+        "image": "images/health/img7.jpeg",
+        "symptoms": [
+            "Wheezing: A high-pitched whistling sound when breathing out.",
+            "Coughing: A dry, persistent cough, especially at night or early in the morning.",
+            "Shortness of Breath: Feeling like you can't catch your breath or feel winded.",
+            "Chest Tightness: Feeling like there's a band or tightness around your chest.",
+            "Rapid Breathing: Breathing faster than normal."
+        ],
+        "preventive_measures": [
+            "Avoid Triggers: Allergens, irritants, and respiratory infections.",
+            "Use Medications as Prescribed: Controller and quick-relief meds.",
+            "Monitor Symptoms: Adjust treatment based on symptoms.",
+            "Stay Hydrated: Keeps airways moist.",
+            "Exercise Regularly: Avoid triggers during activity.",
+            "Get Enough Sleep: Helps immune regulation.",
+            "Manage Stress: Meditation, yoga, or hobbies."
+        ],
+        "complication_prevention": [
+            "Manage Exacerbations: Create a plan with your doctor.",
+            "Vaccinations: Get flu and pneumonia vaccines.",
+            "Allergy Control: Work with your doctor for allergy care."
+        ],
+        "tips": [
+            "Keep an Asthma Diary: Track symptoms, triggers, and meds.",
+            "Stay Organized: Meds, appointments, and tests.",
+            "Seek Support: Join asthma support groups."
+        ]
+    },
+    {
+        "name": "Cancer",
+        "image": "images/health/img2.jpeg",
+        "symptoms": [
+            "Unexplained weight loss",
+            "Fatigue",
+            "Lumps or swelling",
+            "Changes in skin or moles",
+            "Persistent pain or coughing"
+        ],
+        "preventive_measures": [
+            "Healthy Diet: More fruits/vegetables, less processed meat.",
+            "Avoid Tobacco: Leading preventable cancer cause.",
+            "Limit Alcohol: Moderation is key.",
+            "Protect from Sun: Wear sunscreen and hats.",
+            "Get Screened: Early detection saves lives."
+        ],
+        "complication_prevention": [
+            "Follow-Up Care: Regular visits after treatment.",
+            "Manage Side Effects: Talk to doctors about meds and nutrition.",
+            "Mental Health Support: Counseling or therapy."
+        ],
+        "tips": [
+            "Stay Informed: Understand your type and treatment.",
+            "Build a Support Network: Talk to others who\u2019ve been through it.",
+            "Keep a Health Journal: Track side effects, appointments, etc."
+        ]
+    },
+    {
+        "name": "Pneumonia",
+        "image": "images/health/im.jpeg",
+        "symptoms": [
+            "Cough with phlegm",
+            "Shortness of breath",
+            "Chest pain when breathing or coughing",
+            "Fever",
+            "Fatigue"
+        ],
+        "preventive_measures": [
+            "Get vaccinated: Pneumococcal and flu vaccines.",
+            "Wash hands regularly: Prevents infections.",
+            "Avoid smoking: Increases the risk of lung infections.",
+            "Avoid close contact with infected individuals.",
+            "Wear a mask in crowded places."
+        ],
+        "complication_prevention": [
+            "Monitor oxygen levels: To avoid breathing complications.",
+            "Follow prescribed antibiotics: Complete the full course.",
+            "Stay hydrated: Helps in recovery and fights fever."
+        ],
+        "tips": [
+            "Rest often: Rest helps to heal your body faster.",
+            "Stay hydrated: Drink fluids regularly to thin mucus.",
+            "Seek medical help: If symptoms worsen or new ones develop."
+        ]
+    },
+    {
+        "name": "Diabetic",
+        "image": "images/health/diabetes.jpeg",
+        "symptoms": [
+            "Frequent urination",
+            "Increased thirst",
+            "Fatigue",
+            "Blurred vision",
+            "Unexplained weight loss"
+        ],
+        "preventive_measures": [
+            "Maintain a healthy weight: Balanced diet and exercise.",
+            "Monitor blood sugar levels: Regular testing.",
+            "Exercise regularly: Helps control blood sugar levels.",
+            "Eat a balanced diet: Focus on fiber-rich foods.",
+            "Limit alcohol: Moderation can help avoid blood sugar spikes."
+        ],
+        "complication_prevention": [
+            "Manage blood pressure: Helps reduce the risk of complications.",
+            "Regular eye exams: To prevent diabetic retinopathy.",
+            "Foot care: Regular checks for sores and cuts."
+        ],
+        "tips": [
+            "Educate yourself: Learn about diabetes management.",
+            "Stay active: Exercise helps control blood sugar.",
+            "Track your progress: Keep a log of your meals and blood sugar levels."
+        ]
+    },
+    {
+        "name": "Heart Disease",
+        "image": "images/health/heart_disease.jpeg",
+        "symptoms": [
+            "Chest pain or discomfort",
+            "Shortness of breath",
+            "Fatigue",
+            "Pain in neck, back, jaw, or stomach",
+            "Nausea or lightheadedness"
+        ],
+        "preventive_measures": [
+            "Eat a heart-healthy diet: Focus on fruits, vegetables, and whole grains.",
+            "Exercise regularly: At least 30 minutes of moderate activity.",
+            "Quit smoking: Smoking increases the risk of heart disease.",
+            "Manage stress: Practice relaxation techniques.",
+            "Limit alcohol: Excessive drinking can increase risk."
+        ],
+        "complication_prevention": [
+            "Regular check-ups: Monitor blood pressure and cholesterol.",
+            "Stay on prescribed medications: Take blood pressure medications as directed.",
+            "Adopt a low-sodium diet: Helps reduce blood pressure."
+        ],
+        "tips": [
+            "Know your numbers: Keep track of cholesterol, blood pressure, and blood sugar.",
+            "Stay active: Exercise strengthens your heart.",
+            "Avoid stress: Practice mindfulness and deep breathing."
+        ]
+    },
+    {
+        "name": "Kidney Disease",
+        "image": "images/health/kidney_disease.jpeg",
+        "symptoms": [
+            "Swelling in ankles, feet, or face",
+            "Fatigue",
+            "Changes in urine output",
+            "Shortness of breath",
+            "Blood in urine"
+        ],
+        "preventive_measures": [
+            "Stay hydrated: Drinking water supports kidney function.",
+            "Monitor blood sugar: Prevent diabetes-related kidney damage.",
+            "Limit salt intake: Too much salt damages kidneys.",
+            "Avoid excessive painkillers: Some medications can harm kidneys.",
+            "Get regular kidney check-ups: Especially if at risk."
+        ],
+        "complication_prevention": [
+            "Control blood pressure: High blood pressure accelerates kidney damage.",
+            "Monitor kidney function: Regular blood tests.",
+            "Follow treatment plans: Medications for controlling diabetes or hypertension."
+        ],
+        "tips": [
+            "Avoid smoking: Smoking damages kidney function.",
+            "Maintain a healthy weight: Reduces strain on the kidneys.",
+            "Exercise regularly: Helps in overall health management."
+        ]
+    },
+    {
+        "name": "Liver Disease",
+        "image": "images/health/liver_disease.jpeg",
+        "symptoms": [
+            "Fatigue",
+            "Yellowing of the skin or eyes (jaundice)",
+            "Abdominal pain",
+            "Swelling in the abdomen",
+            "Nausea or vomiting"
+        ],
+        "preventive_measures": [
+            "Limit alcohol intake: Excessive drinking leads to liver damage.",
+            "Get vaccinated: Hepatitis vaccines help prevent liver infections.",
+            "Eat a healthy diet: Focus on fruits, vegetables, and lean proteins.",
+            "Avoid exposure to toxins: Avoid contaminated food and water.",
+            "Control body weight: Reduces fat buildup in the liver."
+        ],
+        "complication_prevention": [
+            "Follow a liver-healthy diet: Reduce fat intake.",
+            "Avoid alcohol: Essential for liver disease management.",
+            "Take medications as prescribed: Prevent further damage."
+        ],
+        "tips": [
+            "Monitor liver health: Regular check-ups and liver function tests.",
+            "Stay hydrated: Water helps to flush out toxins.",
+            "Limit sugar and fat intake: Supports liver detoxification."
+        ]
+    },
+    {
+        "name": "HIV/AIDS",
+        "image": "images/health/hiv_aids.jpeg",
+        "symptoms": [
+            "Unexplained weight loss",
+            "Frequent infections",
+            "Fatigue",
+            "Swollen lymph nodes",
+            "Diarrhea"
+        ],
+        "preventive_measures": [
+            "Practice safe sex: Use condoms to prevent transmission.",
+            "Get tested regularly: Early detection helps in treatment.",
+            "Avoid sharing needles: Prevents transmission through blood.",
+            "Limit high-risk behaviors: Reduces the chance of exposure.",
+            "Take preventive medications: PrEP for those at risk."
+        ],
+        "complication_prevention": [
+            "Adhere to antiretroviral therapy: Key to managing HIV.",
+            "Monitor CD4 count: Ensures the immune system is functioning.",
+            "Prevent opportunistic infections: Regular screenings and vaccinations."
+        ],
+        "tips": [
+            "Educate yourself: Know the facts about HIV prevention and treatment.",
+            "Maintain a healthy lifestyle: Supports immune function.",
+            "Stay connected: Join support groups or therapy for emotional health."
+        ]
+    },
+    {
+        "name": "Chronic Respiratory Disease",
+        "image": "images/health/chronic_respiratory.jpeg",
+        "symptoms": [
+            "Chronic cough",
+            "Shortness of breath",
+            "Wheezing",
+            "Fatigue",
+            "Frequent respiratory infections"
+        ],
+        "preventive_measures": [
+            "Quit smoking: Smoking is the leading cause of chronic respiratory disease.",
+            "Get vaccinated: Flu and pneumonia vaccines are essential.",
+            "Avoid exposure to pollutants: Use air purifiers if needed.",
+            "Exercise regularly: Helps strengthen lung capacity.",
+            "Stay hydrated: Hydration supports respiratory health."
+        ],
+        "complication_prevention": [
+            "Use prescribed inhalers or medications: Helps control symptoms.",
+            "Avoid allergens: Reduce exposure to triggers like dust or pollen.",
+            "Monitor lung function: Regular check-ups and spirometry tests."
+        ],
+        "tips": [
+            "Know your triggers: Track what causes symptoms to worsen.",
+            "Practice breathing exercises: Helps improve lung function.",
+            "Stay active: Light exercise can help maintain lung health."
+        ]
+    },
+    {
+        "name": "Diabetes",
+        "image": "images/health/img3.jpeg",
+        "symptoms": [
+            "Increased thirst and urination",
+            "Fatigue",
+            "Blurred vision",
+            "Slow-healing sores",
+            "Unexplained weight loss"
+        ],
+        "preventive_measures": [
+            "Eat Balanced Meals: Control carbs and sugar.",
+            "Exercise Regularly: Improves insulin sensitivity.",
+            "Monitor Blood Sugar: Daily checks are essential.",
+            "Take Medication as Prescribed",
+            "Avoid Smoking and Excessive Alcohol"
+        ],
+        "complication_prevention": [
+            "Foot Care: Daily checks for wounds or numbness.",
+            "Eye Exams: Regular checkups to prevent damage.",
+            "Heart Health: Manage BP and cholesterol."
+        ],
+        "tips": [
+            "Keep a Glucose Log",
+            "Meal Prep: Plan ahead for better control.",
+            "Educate Family: So they can help in emergencies."
+        ]
+    },
+    {
+        "name": "Hypertension",
+        "image": "images/health/img4.jpeg",
+        "symptoms": [
+            "Headaches",
+            "Shortness of breath",
+            "Nosebleeds",
+            "Flushing",
+            "Dizziness"
+        ],
+        "preventive_measures": [
+            "Reduce Salt Intake",
+            "Exercise Regularly",
+            "Manage Stress",
+            "Eat a Balanced Diet",
+            "Avoid Tobacco and Alcohol"
+        ],
+        "complication_prevention": [
+            "Monitor Blood Pressure Regularly",
+            "Take Medications as Prescribed",
+            "Routine Doctor Visits"
+        ],
+        "tips": [
+            "Track Your BP",
+            "Use a Home BP Monitor",
+            "Practice Relaxation Techniques"
+        ]
+    },
+    {
+        "name": "Obesity",
+        "image": "images/health/img5.jpeg",
+        "symptoms": [
+            "Excess body fat",
+            "Breathlessness",
+            "Increased sweating",
+            "Snoring",
+            "Fatigue"
+        ],
+        "preventive_measures": [
+            "Eat Healthy Foods",
+            "Stay Physically Active",
+            "Limit Sugar and Fat Intake",
+            "Regular Weight Checks",
+            "Avoid Emotional Eating"
+        ],
+        "complication_prevention": [
+            "Prevent Type 2 Diabetes",
+            "Reduce Risk of Heart Disease",
+            "Monitor Cholesterol and BP"
+        ],
+        "tips": [
+            "Join a Support Group",
+            "Use Smaller Plates",
+            "Keep a Food Diary"
+        ]
+    },
+    {
+        "name": "Osteoporosis",
+        "image": "images/health/img6.jpeg",
+        "symptoms": [
+            "Back pain",
+            "Loss of height",
+            "Stooped posture",
+            "Bone fractures",
+            "Weak grip strength"
+        ],
+        "preventive_measures": [
+            "Calcium and Vitamin D Intake",
+            "Weight-Bearing Exercises",
+            "Avoid Smoking",
+            "Limit Alcohol",
+            "Bone Density Tests"
+        ],
+        "complication_prevention": [
+            "Fall Prevention Measures",
+            "Use Assistive Devices",
+            "Follow Treatment Plan"
+        ],
+        "tips": [
+            "Use Non-slip Mats",
+            "Install Grab Bars",
+            "Get Regular Sun Exposure"
+        ]
+    },
+    {
+        "name": "Arthritis",
+        "image": "images/health/img8.jpeg",
+        "symptoms": [
+            "Joint pain",
+            "Swelling",
+            "Stiffness",
+            "Reduced range of motion",
+            "Redness around joints"
+        ],
+        "preventive_measures": [
+            "Maintain Healthy Weight",
+            "Exercise Regularly",
+            "Protect Your Joints",
+            "Stay Hydrated",
+            "Anti-inflammatory Diet"
+        ],
+        "complication_prevention": [
+            "Early Diagnosis and Treatment",
+            "Manage Pain Effectively",
+            "Avoid Joint Overuse"
+        ],
+        "tips": [
+            "Use Hot/Cold Therapy",
+            "Stretch Daily",
+            "Join Arthritis Support Groups"
+        ]
+    },
+    {
+        "name": "Tuberculosis",
+        "image": "images/health/img9.jpeg",
+        "symptoms": [
+            "Persistent cough",
+            "Coughing up blood",
+            "Chest pain",
+            "Fatigue",
+            "Night sweats"
+        ],
+        "preventive_measures": [
+            "Get Vaccinated (BCG)",
+            "Avoid Crowded Places",
+            "Use Masks in High-Risk Areas",
+            "Proper Ventilation",
+            "Prompt Treatment of Active TB"
+        ],
+        "complication_prevention": [
+            "Complete Full Course of Medication",
+            "Regular Follow-Ups",
+            "Support Immune System"
+        ],
+        "tips": [
+            "Take Medication on Time",
+            "Rest and Nutritious Diet",
+            "Avoid Spreading TB"
+        ]
+    },
+    {
+        "name": "COVID-19",
+        "image": "images/health/img10.jpeg",
+        "symptoms": [
+            "Fever",
+            "Cough",
+            "Loss of taste or smell",
+            "Shortness of breath",
+            "Fatigue"
+        ],
+        "preventive_measures": [
+            "Get Vaccinated",
+            "Wear Masks",
+            "Maintain Social Distance",
+            "Hand Hygiene",
+            "Avoid Crowds"
+        ],
+        "complication_prevention": [
+            "Early Testing and Isolation",
+            "Monitor Oxygen Levels",
+            "Follow Treatment Guidelines"
+        ],
+        "tips": [
+            "Stay Informed on Guidelines",
+            "Keep Emergency Contacts Ready",
+            "Practice Self-Care During Isolation"
+        ]
+    },
+    {
+        "name": "Malaria",
+        "image": "images/health/img11.jpeg",
+        "symptoms": [
+            "Fever",
+            "Chills",
+            "Headache",
+            "Sweats",
+            "Nausea"
+        ],
+        "preventive_measures": [
+            "Use Mosquito Nets",
+            "Apply Repellents",
+            "Avoid Stagnant Water",
+            "Wear Long Sleeves",
+            "Take Prophylactic Medication"
+        ],
+        "complication_prevention": [
+            "Seek Early Treatment",
+            "Avoid Re-infection",
+            "Stay Hydrated and Rest"
+        ],
+        "tips": [
+            "Monitor for Recurrence",
+            "Use Mosquito Control Methods",
+            "Raise Awareness"
+        ]
+    },
+    {
+        "name": "Dengue",
+        "image": "images/health/img12.jpeg",
+        "symptoms": [
+            "High fever",
+            "Severe headache",
+            "Pain behind eyes",
+            "Joint and muscle pain",
+            "Skin rash"
+        ],
+        "preventive_measures": [
+            "Remove Standing Water",
+            "Use Mosquito Repellent",
+            "Wear Protective Clothing",
+            "Install Screens",
+            "Community Awareness"
+        ],
+        "complication_prevention": [
+            "Hydration",
+            "Avoid NSAIDs",
+            "Monitor Platelet Count"
+        ],
+        "tips": [
+            "Rest and Fluids",
+            "Seek Medical Help if Bleeding",
+            "Avoid Mosquito Bites During Recovery"
+        ]
+    },
+    {
+        "name": "Hepatitis B",
+        "image": "images/health/img13.jpeg",
+        "symptoms": [
+            "Jaundice",
+            "Fatigue",
+            "Abdominal pain",
+            "Loss of appetite",
+            "Dark urine"
+        ],
+        "preventive_measures": [
+            "Vaccination",
+            "Avoid Sharing Needles",
+            "Safe Sex Practices",
+            "Screening During Pregnancy",
+            "Blood Safety Measures"
+        ],
+        "complication_prevention": [
+            "Antiviral Therapy",
+            "Liver Function Monitoring",
+            "Avoid Alcohol"
+        ],
+        "tips": [
+            "Get Regular Checkups",
+            "Maintain a Healthy Liver Diet",
+            "Inform Close Contacts"
+        ]
+    },
+    {
+        "name": "Typhoid",
+        "image": "images/health/img14.jpeg",
+        "symptoms": [
+            "High fever",
+            "Weakness",
+            "Stomach pain",
+            "Loss of appetite",
+            "Constipation or diarrhea"
+        ],
+        "preventive_measures": [
+            "Drink Safe Water",
+            "Proper Food Hygiene",
+            "Vaccination",
+            "Handwashing",
+            "Avoid Raw Vegetables in Unsafe Areas"
+        ],
+        "complication_prevention": [
+            "Antibiotic Compliance",
+            "Avoid Self-medication",
+            "Rest and Nutrition"
+        ],
+        "tips": [
+            "Hydrate Often",
+            "Complete Antibiotic Course",
+            "Practice Good Sanitation"
+        ]
+    }
+]
